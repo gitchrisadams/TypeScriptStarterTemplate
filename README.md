@@ -23,3 +23,8 @@ npm install -g typescript
 ```
 tsc -w
 ```
+
+## tsconfig.json file:
+
+dist directory has compiled js code.
+src directory has the TypeScript src code.
