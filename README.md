@@ -18,8 +18,8 @@ Install Typescript:
 npm install -g typescript
 ```
 
-## In same folder of file to watch in terminal:
+## In root of project, watch for changes:
 
 ```
-tsc fileName.ts -w
+tsc -w
 ```
