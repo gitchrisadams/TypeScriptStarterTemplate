@@ -1,0 +1,12 @@
+{
+    "runOnSave.commands": [
+        {
+            "match": ".*\\.(ts)$",
+            "command": "tsc ./app.ts && node ./app.js",
+            "runIn": "terminal",
+            "runningStatusMessage": "Started",
+            "finishStatusMessage": "Finished"
+        }
+    ],
+    "git.ignoreLimitWarning": true
+}
