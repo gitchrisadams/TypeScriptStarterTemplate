@@ -1,1 +1,2 @@
-console.log('Testing4');
+const myTestConst = 'foo'
+console.log(`const: ${myTestConst}`)
